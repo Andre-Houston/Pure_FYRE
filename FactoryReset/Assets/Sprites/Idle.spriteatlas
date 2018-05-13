@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Idle
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300012, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300040, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300014, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300042, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300008, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300044, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300010, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300046, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300004, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300006, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300000, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300002, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300016, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300018, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300030, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300028, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300034, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300032, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300022, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300020, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300026, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300024, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300038, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  - {fileID: 21300036, guid: 364ab79c9d31cf642883d181717ffffc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - skeleton-TurboTed-idle_6
+  - skeleton-TurboTed-idle_20
+  - skeleton-TurboTed-idle_7
+  - skeleton-TurboTed-idle_21
+  - skeleton-TurboTed-idle_4
+  - skeleton-TurboTed-idle_22
+  - skeleton-TurboTed-idle_5
+  - skeleton-TurboTed-idle_23
+  - skeleton-TurboTed-idle_2
+  - skeleton-TurboTed-idle_3
+  - skeleton-TurboTed-idle_0
+  - skeleton-TurboTed-idle_1
+  - skeleton-TurboTed-idle_8
+  - skeleton-TurboTed-idle_9
+  - skeleton-TurboTed-idle_15
+  - skeleton-TurboTed-idle_14
+  - skeleton-TurboTed-idle_17
+  - skeleton-TurboTed-idle_16
+  - skeleton-TurboTed-idle_11
+  - skeleton-TurboTed-idle_10
+  - skeleton-TurboTed-idle_13
+  - skeleton-TurboTed-idle_12
+  - skeleton-TurboTed-idle_19
+  - skeleton-TurboTed-idle_18
+  m_Tag: Idle
+  m_IsVariant: 0
